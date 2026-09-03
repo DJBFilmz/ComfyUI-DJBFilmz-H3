@@ -2,9 +2,14 @@
 
 I created a very simple joiner to join two clips together using Minimax H3 Image to Video workflow.
 
-Shout out to Stuttlepress for giving me the idea with his ComfyUI-Wan-VACE-Prep Nodes.
 
-This node is extremely simple as I “vibe coded” it as if I were a 5-year-old.
+
+Shout-out to Stuttlepress for giving me the idea with his ComfyUI-Wan-VACE-Prep Nodes.
+
+<img width="auto" height="300" alt="H3_Join" src="https://github.com/user-attachments/assets/ec9fd131-a0bb-4ace-8983-47203ecbd34a" />
+<img width="auto" height="300" alt="H3_Stitch" src="https://github.com/user-attachments/assets/cc619a94-2f7f-4495-933a-d45ed2db7aa6" />
+
+This node is extremely simple, as I “vibe coded” it as if I were a 5-year-old.
 
 ---
 
@@ -23,17 +28,22 @@ This node is extremely simple as I “vibe coded” it as if I were a 5-year-old
 
 ## Settings & Controls
 
-* **Bridge_frames:** Bridge_frames is essentially how many frames you want to create. The math is calculated inside the node so you don’t need to worry about it. Just click through and it works.
+* **Bridge_frames:** Bridge_frames is essentially how many frames you want to create. The math is calculated inside the node, so you don’t need to worry about it. Just click through, and it works.
 
-* **Keep_original_duration:** (this is my favorite) this will basically erase the frames from your Start and End video making it so that your have the exact duration that those two video equal. 
+* **Keep_original_duration:** (this is my favorite) this will basically erase the frames from your Start and End video, making it so that you have the exact duration that those two videos equal. 
   
-  > **Reasoning:** as a filmmaker, I want the video to stay the exact length to keep the performance as intended. 
+  > **Reasoning:** As a filmmaker, I want the video to stay the exact length to keep the performance as intended. 
   > 
   > *Note: Select false on this if you prefer to add NEW frames.*
 
-* **Replace_frames:** this is similar to keep original in that it deletes frames form the start and end video. However, it does not do the precise calculation needed to keep the original duration. 
+* **Replace_frames:** this is similar to keep original in that it deletes frames from the start and end video. However, it does not do the precise calculation needed to keep the original duration. 
   
   > *Note: Only use when keep_original_duration is set to FALSE.*
+
+---
+
+## Workflow Example Image
+<img width="1823" height="854" alt="H3_Join_WF" src="https://github.com/user-attachments/assets/7437b963-1369-4e0e-8da7-3db9609962e6" />
 
 ---
 
