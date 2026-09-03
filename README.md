@@ -7,7 +7,7 @@ I created a very simple joiner to join two clips together using Minimax H3 Image
 Shout-out to Stuttlepress for giving me the idea with his ComfyUI-Wan-VACE-Prep Nodes.
 
 <img width="auto" height="300" alt="H3_Join" src="https://github.com/user-attachments/assets/ec9fd131-a0bb-4ace-8983-47203ecbd34a" />
-<img width="auto" height="300" alt="H3_Stitch" src="https://github.com/user-attachments/assets/cc619a94-2f7f-4495-933a-d45ed2db7aa6" />
+<img width="300" height="auto" alt="H3_Stitch" src="https://github.com/user-attachments/assets/cc619a94-2f7f-4495-933a-d45ed2db7aa6" />
 
 This node is extremely simple, as I “vibe coded” it as if I were a 5-year-old.
 
