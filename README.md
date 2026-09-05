@@ -1,5 +1,11 @@
 # ComfyUI MiniMax H3 Clip Joiner
 
+## UPDATE
+
+Added 'MiniMax H3 Stitch Advanced'. This node's primary function is to color match the start and end images. You can use this in lieu of the MiniMax H3 Stitch node if you're having color accuracy issues.
+
+---
+
 I created a very simple joiner to join two clips together using Minimax H3 Image to Video workflow.
 
 
