@@ -2,11 +2,13 @@
 
 ## UPDATE
 
-Added 'MiniMax H3 Stitch Advanced'. This node's primary function is to color match the start and end images. You can use this in lieu of the MiniMax H3 Stitch node if you're having color accuracy issues.
+Added `MiniMax H3 Stitch Advanced`. This node's primary function is to color match the start and end images. You can use this in lieu of the MiniMax H3 Stitch node if you're having color accuracy issues.
+
+<img width="300" height="auto" alt="H3_Stitch_Advanced" src="https://github.com/user-attachments/assets/aba482cd-22a5-4bc4-b858-794c5d4458e9" />
 
 ---
 
-I created a very simple joiner to join two clips together using Minimax H3 Image to Video workflow.
+I created a very simple joiner to join two clips together using MiniMax H3 Image to Video workflow.
 
 
 
